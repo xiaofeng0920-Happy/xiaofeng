@@ -1,0 +1,13 @@
+input_index,input_name,csv_row,disposition,reason,order_id,line_id,date,sku,quantity,line_amount,currency,status
+1,orders_a.csv,2,accepted,valid paid line,0001,1,2026-10-01,CUP,2,58.00,CNY,paid
+1,orders_a.csv,3,accepted,valid paid line,0002,1,2026-10-01,BAG,1,49.00,CNY,paid
+1,orders_a.csv,4,excluded_status,cancelled excluded from paid sales,0003,1,2026-10-01,CUP,1,29.00,CNY,cancelled
+1,orders_a.csv,5,accepted,valid paid line,0004,1,2026-10-01,CUP,1,10.00,USD,paid
+1,orders_a.csv,6,invalid,quantity: required; quantity: non-negative integer required,0005,1,2026-10-01,PEN,,5.00,CNY,paid
+1,orders_a.csv,7,conflict,key has differing normalized payloads,0006,1,2026-10-01,CUP,1,29.00,CNY,paid
+2,orders_b.csv,2,duplicate,identical normalized copy; first retained,0002,1,2026-10-01,BAG,1,49.00,CNY,paid
+2,orders_b.csv,3,accepted,valid paid line,0007,1,2026-10-02,CUP,3,87.00,CNY,paid
+2,orders_b.csv,4,conflict,key has differing normalized payloads,0006,1,2026-10-01,CUP,1,30.00,CNY,paid
+2,orders_b.csv,5,invalid,date: ISO YYYY-MM-DD required,0008,1,10/02/2026,PEN,1,10.00,CNY,paid
+2,orders_b.csv,6,accepted,valid paid line,0009,1,2026-10-02,'=2+2,1,5.00,CNY,paid
+2,orders_b.csv,7,accepted,valid paid line,0010,1,2026-10-02,PEN,1,0.00,CNY,paid

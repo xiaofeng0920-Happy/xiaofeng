@@ -1,0 +1,8 @@
+{
+  "input_rows": 12,
+  "accepted_rows": 6,
+  "duplicate_rows": 1,
+  "conflict_rows": 2,
+  "invalid_rows": 2,
+  "excluded_status_rows": 1
+}

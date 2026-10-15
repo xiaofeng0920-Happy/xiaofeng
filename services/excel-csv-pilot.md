@@ -2,6 +2,11 @@
 
 中文服务说明见下方。 This is a new fixed-scope service offer, not a claim of completed client projects.
 
+
+## Synthetic CSV portfolio example
+
+[View source, tests, synthetic inputs and outputs](../portfolio/csv-order-demo/). This personal demonstration handles CSV only and is not a customer engagement. It classifies all 12 sample rows and reports CNY 199.00 and USD 10.00 separately; these are fictional order amounts, not business income. XLSX requirements are assessed separately before accepting work.
+
 ## What the pilot covers
 
 For a small business that repeatedly combines exported order files:

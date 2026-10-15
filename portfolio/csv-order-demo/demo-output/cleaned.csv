@@ -1,0 +1,7 @@
+order_id,line_id,date,sku,quantity,line_amount,currency,status
+0001,1,2026-10-01,CUP,2,58.00,CNY,paid
+0002,1,2026-10-01,BAG,1,49.00,CNY,paid
+0004,1,2026-10-01,CUP,1,10.00,USD,paid
+0007,1,2026-10-02,CUP,3,87.00,CNY,paid
+0009,1,2026-10-02,'=2+2,1,5.00,CNY,paid
+0010,1,2026-10-02,PEN,1,0.00,CNY,paid

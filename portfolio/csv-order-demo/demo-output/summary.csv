@@ -1,0 +1,6 @@
+currency,sku,quantity,line_amount
+CNY,'=2+2,1,5.00
+CNY,BAG,1,49.00
+CNY,CUP,5,145.00
+CNY,PEN,1,0.00
+USD,CUP,1,10.00
