@@ -45,3 +45,9 @@ The tests independently assert these hand-calculated values, input hashes, formu
 ## 中文摘要
 
 这是纯虚构数据的作品集演示，不是客户项目。仅依赖 Python 标准库，支持 CSV，不支持 XLSX。按订单号和行号去重；冲突、无效记录及取消/退款记录均留审计记录，只有有效已付款行进入汇总。人民币 199.00 与美元 10.00 分开统计。表格软件导入编号列时请选择“文本”，以保留前导零。
+
+## Book a CSV-only service
+
+[View CSV cleanup and Python automation packages on Fiverr](https://www.fiverr.com/gorge_zhao/clean-csv-files-and-automate-order-reports-with-python). Packages are US$45 / US$75 / US$120 with 2 / 3 / 4-day delivery and one revision within the agreed scope.
+
+Send an anonymized sample through Fiverr before ordering so we can confirm columns, duplicate keys, sales rules, and your running environment. Fiverr orders use the package scope and delivery terms shown there; communication and payment for those orders stay on Fiverr.
