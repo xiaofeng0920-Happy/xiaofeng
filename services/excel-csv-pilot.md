@@ -3,6 +3,10 @@
 中文服务说明见下方。 This is a new fixed-scope service offer, not a claim of completed client projects.
 
 
+## Fiverr CSV-only packages
+
+[View the live Fiverr service](https://www.fiverr.com/gorge_zhao/clean-csv-files-and-automate-order-reports-with-python): US$45 / US$75 / US$120, with 2 / 3 / 4-day delivery and one revision within the agreed scope. Fiverr orders follow the package scope and delivery terms shown on Fiverr. Send an anonymized sample there before ordering; communication and payments for Fiverr orders remain on Fiverr.
+
 ## Synthetic CSV portfolio example
 
 [View source, tests, synthetic inputs and outputs](../portfolio/csv-order-demo/). This personal demonstration handles CSV only and is not a customer engagement. It classifies all 12 sample rows and reports CNY 199.00 and USD 10.00 separately; these are fictional order amounts, not business income. XLSX requirements are assessed separately before accepting work.
