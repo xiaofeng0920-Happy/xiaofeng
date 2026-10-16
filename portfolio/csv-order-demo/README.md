@@ -51,3 +51,7 @@ The tests independently assert these hand-calculated values, input hashes, formu
 [View CSV cleanup and Python automation packages on Fiverr](https://www.fiverr.com/gorge_zhao/clean-csv-files-and-automate-order-reports-with-python). Packages are US$45 / US$75 / US$120 with 2 / 3 / 4-day delivery and one revision within the agreed scope.
 
 Send an anonymized sample through Fiverr before ordering so we can confirm columns, duplicate keys, sales rules, and your running environment. Fiverr orders use the package scope and delivery terms shown there; communication and payment for those orders stay on Fiverr.
+
+## Self-service companion materials: interest check
+
+[Review the proposed US$29 CSV workflow companion pack](../../services/csv-companion-pack-interest.md) and tell us whether the additional guides, rule worksheet and acceptance checklist would be useful. The additional materials are not available for purchase yet; no payment is requested. The source and synthetic demo remain publicly viewable.
